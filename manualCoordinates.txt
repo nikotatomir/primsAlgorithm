@@ -1,0 +1,18 @@
+The first N points represent the houses, the next M points represent the malls, the last point represent the city center
+The variables N and M are defined in run.py (number of points here must be equal to N+M+1)
+
+Xcoordinates, YCoordinates
+1, 0.5
+1, 4.5
+3.5, 4.25
+5, 0.5
+5.5, 1.5
+6.25, 2
+6.5, 4.25
+7.5, 4.25
+0.5, 2.5
+2, 1.25 
+3.5, 2.875
+5.75, 1
+6.75, 3
+9.5,2.5
